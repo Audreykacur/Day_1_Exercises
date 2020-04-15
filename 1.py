@@ -1,9 +1,5 @@
 
 
-# Ask the user for two numbers: one number to num2 (call it num) and one number to divide by (num2). 
-# If num2 divides evenly into num, tell that to the user. 
-# If not, print a different appropriate message.
-
 
 num = int(input("enter a number to see if it is even or odd: "))
 
